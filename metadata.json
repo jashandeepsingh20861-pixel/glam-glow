@@ -1,0 +1,8 @@
+{
+  "name": "Glow & Glam Salon",
+  "description": "Luxury salon booking and management platform with appointment scheduling, multilingual support, staff roaster, and AI beauty assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
